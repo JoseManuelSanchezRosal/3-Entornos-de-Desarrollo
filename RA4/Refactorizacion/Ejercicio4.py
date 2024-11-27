@@ -16,6 +16,6 @@ def formatear_texto(texto):
     primeramayusculas(texto)
     
 if __name__ == '__main__':# Declaramos nuestro main menu
-    formatear_texto("Hola MI nomBRE es JOSe ManueL")# Le damos un texto para aplicar las funciones.
+    formatear_texto("hola MI nomBRE es JOSe ManueL")# Le damos un texto para aplicar las funciones.
     
 # HECHO

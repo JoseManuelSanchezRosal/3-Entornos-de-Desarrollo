@@ -26,3 +26,5 @@ if __name__ == '__main__':# Declaramos nuestro main menu
     numeros = (4, 6, 88, 1, 56, 78, 99)
     print("La lista original de numeros es: ", numeros)
     calcular_estadisticas(numeros)
+    
+# HECHO

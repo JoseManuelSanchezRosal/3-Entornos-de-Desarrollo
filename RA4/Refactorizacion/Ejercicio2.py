@@ -23,3 +23,5 @@ def generar_informe(ventas):# En nuestra funcion original, llamamos a las funcio
 if __name__ == '__main__':# Declaramos nuestro main menu
     ventas = {"Peras":3,"Manzanas":4, "Limones":5}# Creamos un diccionario.
     generar_informe(ventas)# Llamamos a la funcion de generar informe y le pasamos nuestro diccionario "ventas"
+
+# HECHO

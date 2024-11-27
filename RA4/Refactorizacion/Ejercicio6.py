@@ -27,3 +27,5 @@ def generar_contraseña(longitud):
 
 if __name__ == '__main__':# Declaramos nuestro main menu
     generar_contraseña(6)
+
+# SIN TERMINAR
