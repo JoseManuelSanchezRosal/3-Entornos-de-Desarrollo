@@ -1,0 +1,17 @@
+78.53981633974483
+18
+2.0
+-2
+Help on package Matematicas:
+
+NAME
+    Matematicas - # __init__.py
+
+PACKAGE CONTENTS
+    algebra
+    geometria
+
+FILE
+    /home/josema69/Escritorio/DAM/3-ENT/3-Entornos-de-Desarrollo/RA4/Documentacion/Matematicas/__init__.py
+
+
